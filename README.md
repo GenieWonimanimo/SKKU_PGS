@@ -1,3 +1,4 @@
 # SKKU_PGS
+Basis and Practice in Programming
 
-This is repository for practice file of 2020_1st semester lecture *Basis and Practice in Programming*
+2020_1st semester
